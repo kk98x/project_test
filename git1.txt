@@ -1,2 +1,3 @@
 git one
-dev test vs feature1
+<<<<<<< HEAD
+confict fixed
